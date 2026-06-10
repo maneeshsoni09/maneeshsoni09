@@ -28,7 +28,7 @@ AI-powered personal finance assistant designed to help users track expenses, man
 
 ### 🛠️ Tech Stack
 
-`Python` • `FastAPI` • `React` • `PostgreSQL` • `Machine Learning`
+`Python` • `FastAPI` • `React` • `Supabase` • `Machine Learning`
 
 ---
 
