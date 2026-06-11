@@ -12,8 +12,6 @@
 
 ## 🚀 Featured Project
 
-# Projects
-
 ## 🐷 Piggyyy
 
 AI-powered personal finance assistant designed to help users track expenses, manage budgets, and gain meaningful financial insights.
