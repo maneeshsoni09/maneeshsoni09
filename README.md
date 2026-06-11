@@ -12,7 +12,9 @@
 
 ## 🚀 Featured Project
 
-### 🐷 Piggyyy
+# Projects
+
+## 🐷 Piggyyy
 
 AI-powered personal finance assistant designed to help users track expenses, manage budgets, and gain meaningful financial insights.
 
@@ -26,10 +28,24 @@ AI-powered personal finance assistant designed to help users track expenses, man
 - 🤖 AI-Powered Recommendations
 - 🎯 Smart Insights for Better Financial Decisions
 
-### 🛠️ Tech Stack
+---
 
-`Python` • `FastAPI` • `React` • `Supabase` • `Machine Learning`
+## 🍿 WannaWatch
 
+A collaborative watchlist platform where friends, couples, and groups can save recommendations, vote on what to watch next, discuss movies and shows, and keep all their watchlists in one place.
+
+🔗 **Live Demo:** https://wannawatch.vercel.app
+
+### ✨ Features
+
+- 🎬 Create Personal & Shared Watchlists
+- 🗳️ Vote on What to Watch Next
+- 💬 Comment & Discuss Movies and Shows
+- 📺 Track Watch Status (To Watch, Watching, Watched)
+- ⚡ Real-Time Collaboration & Updates
+- 🍿 Discover Content Across Netflix, Prime Video, Anime, Bollywood & Hollywood
+- 👥 Invite Friends and Build Watchlists Together
+- 🔔 Activity Feed & Notifications
 ---
 
 ## 🌐 Connect With Me
