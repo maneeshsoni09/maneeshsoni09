@@ -28,11 +28,11 @@ AI-powered personal finance assistant designed to help users track expenses, man
 
 ---
 
-## 🍿 WannaWatch
+## 🍿 Bingelyyy
 
 A collaborative watchlist platform where friends, couples, and groups can save recommendations, vote on what to watch next, discuss movies and shows, and keep all their watchlists in one place.
 
-🔗 **Live Demo:** https://wannawatch.vercel.app
+🔗 **Live Demo:** https://bingelyyy.vercel.app
 
 ### ✨ Features
 
