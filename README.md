@@ -18,14 +18,6 @@ AI-powered personal finance assistant designed to help users track expenses, man
 
 🔗 **Live Demo:** https://piggyyy.vercel.app
 
-### ✨ Features
-
-- 💰 Expense Tracking
-- 📊 Budget Management
-- 📈 Financial Analytics
-- 🤖 AI-Powered Recommendations
-- 🎯 Smart Insights for Better Financial Decisions
-
 ---
 
 ## 🍿 Bingelyyy
@@ -34,15 +26,6 @@ A collaborative watchlist platform where friends, couples, and groups can save r
 
 🔗 **Live Demo:** https://bingelyyy.vercel.app
 
-### ✨ Features
-
-- 🎬 Create Personal & Shared Watchlists
-- 🗳️ Vote on What to Watch Next
-- 💬 Comment & Discuss Movies and Shows
-- 📺 Track Watch Status (To Watch, Watching, Watched)
-- ⚡ Real-Time Collaboration & Updates
-- 👥 Invite Friends and Build Watchlists Together
-- 🔔 Activity Feed & Notifications
 ---
 
 ## 🌐 Connect With Me
