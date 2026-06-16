@@ -31,7 +31,6 @@ A collaborative watchlist platform where friends, couples, and groups can save r
 ## 🌐 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/maneeshsoni35)
-
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maneeshsoni09@gmail.com)
 
 ---
