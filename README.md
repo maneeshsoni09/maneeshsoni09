@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Maneesh Soni
 
-🎓 Final Year B.Tech Student passionate about 🤖 Artificial Intelligence, 🧠 Machine Learning, ✨ Generative AI, and Product Development.
+🎓 Final-year B.Tech student with a passion for Artificial Intelligence, Machine Learning, Generative AI, and building impactful technology products.
 
 ## 🙋 About Me
 
