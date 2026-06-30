@@ -10,6 +10,11 @@
 - 🌍 Interested in solving real-world problems through technology
 - 📚 Continuously learning and experimenting with emerging AI technologies
 
+## 💼 Experience
+
+- 💻 Backend Intern at Nexithon Global Pvt. Ltd.
+- 📊 Data Analyst Intern at Bluestock Fintech, Pune
+
 ## 🚀 Featured Project
 
 ## 🐷 Piggyyy
